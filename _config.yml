@@ -1,13 +1,13 @@
 # Site settings
-title: Travelog
-subtitle: "Journal of [name]"
+title: Joe's Blog
+subtitle: "Journal of Joe"
 email: your-email@domain.com
-description: "Make the footer happy by entering a short description about yourself here"
+description: "A blog about all the things I'm learning and getting confused by"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
-instagram_username: "rowanoulton"
+twitter_username: "Joe_g_Robertson"
+github_username:  "joe-robertson"
+instagram_username: "jgrsparks"
 
 # Build settings
 markdown: kramdown
